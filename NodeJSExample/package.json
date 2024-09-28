@@ -1,0 +1,23 @@
+{
+  "name": "first-nodejs",
+  "version": "0.0.1",
+  "description": "First NodeJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerrificallyTerri/itm350-terridebreyn-test.git"
+  },
+  "keywords": [
+    "week2",
+    "itm350"
+  ],
+  "author": "Terri de Breyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerrificallyTerri/itm350-terridebreyn-test/issues"
+  },
+  "homepage": "https://github.com/TerrificallyTerri/itm350-terridebreyn-test#readme"
+}
